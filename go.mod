@@ -1,3 +1,3 @@
-module github.com/knusbaum/testgover
+module gopkg.in/knusbaum/testgover.v1
 
 go 1.14
