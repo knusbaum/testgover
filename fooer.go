@@ -9,3 +9,7 @@ func Fooer() {
 func Barer() {
 	fmt.Println("bar")
 }
+
+func Bazer() {
+	fmt.Println("bazer")
+}
